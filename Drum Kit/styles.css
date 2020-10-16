@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-image: url('wp.png');
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  /* font-family: "Arvo", cursive; */
+  /* text-shadow: 3px 0 #DA0463; */
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url('b.jpeg');
+}
+
+.a {
+  background-image: url('b.jpeg');
+}
+
+.s {
+  background-image: url('b.jpeg');
+}
+
+.d {
+  background-image: url('b.jpeg');
+}
+
+.j {
+  background-image: url('b.jpeg');
+}
+
+.k {
+  background-image: url('b.jpeg');
+}
+
+.l {
+  background-image: url('b.jpeg');
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 2px solid #404B69;
+  font-size: 3rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 13px;
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  margin: 20px;
+  background-color: white;
+}
